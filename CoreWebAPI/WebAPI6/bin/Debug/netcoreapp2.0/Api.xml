@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI6</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI6.Controllers.DepartmentController.Get">
+            <summary>
+            Creates a TodoItem.
+            </summary>
+        </member>
+    </members>
+</doc>
