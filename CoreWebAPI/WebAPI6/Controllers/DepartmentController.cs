@@ -18,7 +18,7 @@ namespace WebAPI6.Controllers
         }
 
         /// <summary>
-        /// YA
+        /// 查詢部門資料
         /// </summary>
         /// <returns></returns>
         [HttpGet]
@@ -45,6 +45,11 @@ namespace WebAPI6.Controllers
             return new JsonResult(table);
         }
 
+        /// <summary>
+        /// 新增部門資料
+        /// </summary>
+        /// <param name="dep"> 部門新增資料 </param>
+        /// <returns></returns>
         [HttpPost]
         public JsonResult Post(Department dep)
         {
@@ -71,6 +76,7 @@ namespace WebAPI6.Controllers
 
             return new JsonResult("Added Successfully");
         }
+
 
         [HttpPut]
         public JsonResult Put(Department dep)

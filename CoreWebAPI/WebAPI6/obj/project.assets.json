@@ -866,11 +866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshjhan\\source\\repos\\WebAPI6\\WebAPI6\\WebAPI6.csproj",
+      "projectUniqueName": "E:\\01.IScomFiles\\99.VueLearnLog\\01_vuejs_coreWebAPI\\CoreWebAPI\\WebAPI6\\WebAPI6.csproj",
       "projectName": "WebAPI6",
-      "projectPath": "C:\\Users\\joshjhan\\source\\repos\\WebAPI6\\WebAPI6\\WebAPI6.csproj",
+      "projectPath": "E:\\01.IScomFiles\\99.VueLearnLog\\01_vuejs_coreWebAPI\\CoreWebAPI\\WebAPI6\\WebAPI6.csproj",
       "packagesPath": "C:\\Users\\joshjhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshjhan\\source\\repos\\WebAPI6\\WebAPI6\\obj\\",
+      "outputPath": "E:\\01.IScomFiles\\99.VueLearnLog\\01_vuejs_coreWebAPI\\CoreWebAPI\\WebAPI6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

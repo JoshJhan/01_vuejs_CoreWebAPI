@@ -6,9 +6,31 @@
     <members>
         <member name="M:WebAPI6.Controllers.DepartmentController.Get">
             <summary>
-            YA
+            查詢部門資料
             </summary>
             <returns></returns>
+        </member>
+        <member name="M:WebAPI6.Controllers.DepartmentController.Post(WebAPI6.Models.Department)">
+            <summary>
+            新增部門資料
+            </summary>
+            <param name="dep"> 部門新增資料 </param>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPI6.Models.Department">
+            <summary>
+            部門Model
+            </summary>
+        </member>
+        <member name="P:WebAPI6.Models.Department.DepartmentId">
+            <summary>
+            部門Id
+            </summary>
+        </member>
+        <member name="P:WebAPI6.Models.Department.DepartmentName">
+            <summary>
+            部門名稱
+            </summary>
         </member>
     </members>
 </doc>
